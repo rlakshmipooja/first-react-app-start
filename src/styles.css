@@ -72,3 +72,8 @@ header p {
 #tab-content li {
   margin: 0.75rem 0;
 }
+
+#box {
+  display: flex;
+  gap: 20px;
+}
